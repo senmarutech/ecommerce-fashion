@@ -1,4 +1,4 @@
-# 👗 StyleSphere Ecommerce Website
+# 👗 E-commerce Fashion Website
 
 ---
 
